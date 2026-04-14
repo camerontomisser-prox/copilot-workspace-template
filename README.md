@@ -6,9 +6,11 @@ Personal AI-assisted workspace for the DevRel Studios team. Clone this repo to g
 
 1. **Use this template** — click "Use this template" on GitHub to create your own copy
 2. **Clone your copy** locally
-3. **Fill in `context/me.md`** — tell Copilot who you are
-4. **Open in VS Code** — the `.vscode/` config is already wired up
+3. **Open in VS Code** — the `.vscode/` config is already wired up
+4. **Run the setup interview** — open `skills/setup-interview.md`, copy the prompt into Copilot Chat, and answer the questions. It builds your `context/me.md` for you.
 5. **Start using Copilot CLI** — `gh copilot suggest`, `gh copilot explain`
+
+You don't need to fill anything in manually — the setup interview does it for you.
 
 ## How It Works
 
