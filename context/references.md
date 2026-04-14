@@ -1,13 +1,18 @@
 # References
 
-<!-- Links, docs, and resources you use regularly. Copilot adds to this when you reference something new worth bookmarking. -->
-
 ## Team Resources
-- [DevRel Studios SharePoint](TODO)
-- [Team skills repo](TODO)
+- [Copilot Workspace Template](https://github.com/camerontomisser-prox/copilot-workspace-template) — this repo
+- Team skills repo — TBD (will live under manager's GitHub)
 
 ## Microsoft Internal
-<!-- Internal tools, dashboards, docs you reference often -->
+- General 222155 — Copilot onboarding work item
+- Microsoft Foundry — sister team, Azure AI Foundry focus
+
+## Copilot CLI
+- [GitHub Copilot CLI docs](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line)
+- `gh copilot suggest` — natural language to shell commands
+- `gh copilot explain` — explain what a command does
+- Work IQ — Microsoft 365 integration, pulls context from Graph (Teams, email, calendar, docs)
 
 ## External
-<!-- Public docs, tutorials, tools -->
+- [GitHub Copilot instructions docs](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-instructions-for-github-copilot) — how copilot-instructions.md works
